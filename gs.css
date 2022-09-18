@@ -1,0 +1,69 @@
+p:hover {
+    background-color:blue;
+    color:goldenrod;
+}
+h4{
+    color: brown;
+    font-size:15px;
+    font-style: inherit;
+}
+h3{
+    color:coral;
+    font-size: 15px;
+    font-style: italic;
+}
+.mar{
+    color:mediumorchid;
+    font-size: 15px;
+}
+.all{
+
+    color:tomato;
+    font-size: 15px;
+
+}
+.giu{
+
+    color:indigo;
+    font-size: 15px;
+}
+.gio{
+    color:chocolate;
+    font-size: 15px;
+}
+.anni{
+
+    color:coral;
+    font-size: 15px;
+
+}
+.cas{
+    color:fuchsia;
+    font-size: 15px;
+}
+.luiz{
+    color:lavender;
+    font-size: 15px;
+}
+.fia{
+    color:crimson;
+    font-size: 15px;
+}
+.vit{
+
+    color:orangered;
+    font-size: 15px;
+
+}
+.chorus{
+    color:cornflowerblue;
+    font-size: 15px;
+}
+.song{
+    color:gold;
+    font-size: 15px;
+}
+.margiu{
+    color: maroon;
+    font-size:15px;
+}
