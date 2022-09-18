@@ -12,10 +12,12 @@ h3{
     font-size: 15px;
     font-style: italic;
 }
-.mar{
+.mar:hover{
     color:mediumorchid;
     font-size: 15px;
+    background-color:aquamarine;
 }
+
 .all{
 
     color:tomato;
@@ -23,13 +25,23 @@ h3{
 
 }
 .giu{
-
+    
     color:indigo;
     font-size: 15px;
 }
+
 .gio{
     color:chocolate;
     font-size: 15px;
+}
+.gia{
+    color:darkblue;
+    font-size: 15px;
+}
+.tess:hover{
+    color:darkred;
+    font-size: 15px;
+    background-color: orchid;
 }
 .anni{
 
@@ -67,3 +79,16 @@ h3{
     color: maroon;
     font-size:15px;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
