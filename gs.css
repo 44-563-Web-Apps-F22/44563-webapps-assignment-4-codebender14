@@ -141,26 +141,27 @@ h3{
     background-color:cornsilk;
     }
 
+
     ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: black;
-        display: inline;
-        }
-          
-    li {
+        background-color: #333;
+      }
+      
+      li {
         float: left;
-        }
-          
-    li a {
+      }
+      
+      li a {
         display: block;
+        color: white;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
-        }
-          
-    li a:hover{
-        background-color: darksalmon;
-        }
+      }
+      
+      li a:hover {
+        background-color:blueviolet;
+      }
